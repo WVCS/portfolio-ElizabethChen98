@@ -1,7 +1,89 @@
-
 <html>
 <body>
-  <p> Testing Elizabeth's Website
+  <h1>  Researchers in Cancer Should Learn to use Computing Power! </h1>
+
+  <h3> <i> Table of Contents</i></h3>
+<ul>
+  <li> History</li>
+  <li>Databases</li>
+  <li> AI</li>
+  <li> Future</li> 
+  <li> About the Author</li>
+  </ul>
+  <br><br/>
+  <p>
+    <h6>
+    <img src= "https://www.verywellhealth.com/thmb/IjPDqqusHew6l3Fhd6b6wS20Qks=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/iStock_000056948490_Full-575ad59b3df78c9b46ec38c4.jpg"; width="500"; length="200" alt="cancer cells";>
+  </h6>
   </p>
- </body>
- </html>
+  <h2>History</h2>
+  <p> Before the advances of many technologies, cancer was considered to be untreatable. One of the first mentions of cancer was in Ancient Egypt with no mention of any cure. These views persisted to Ancient Greece where famous physicians like Galen wrote many literatures about cancer suggesting to cut it out, still believing it to be incurable even after cutting the tumor out. As the world progressed, surgery improved with the advent of sanitation practices, anesthesia, and imaging technology, removing tumors became more efficient, and more effective. However, for many types of cancers the tumors can metastasize and return rendering surgery as less effective. Chemotherapy drugs were introduced as a solution but had many severe side effects and each took years to develop. There was also the problem of finding new targets for the drugs and finding out if people had the possibility of cancer.  Now, with the advent of supercomputers, genetic databases, and AI systems, drugs can be found more quickly and cancer genes can be identified in people prematurely. </p>
+    <br></br>  
+<h2>Databases</h2> 
+<p> With a database full of information like different types of genes or molecules, researchers can very quickly see if their novel gene or molecule has already been studied before or if it is similar to another gene or molecule. The similarity can be used to see which cancers it can treat. </p> 
+   <h6> <img src= "https://ars.els-cdn.com/content/image/3-s2.0-B9780128029718000201-f20-03-9780128029718.jpg"; width="500"; length="200" alt="gene database";></h6>
+ 
+<p><a href="https://www.ncbi.nlm.nih.gov/gene"> Click here for an example </a> </p>
+
+<br></br>
+<h2>AI</h2>
+<p> Scientists used to have to screen thousands of genes at once, taking much time. By using an AI like the one at SOPHiA, they could instead let the AI do the work and devote their time to other things. The SOPHiA AI is now in use to screen entire genomes to look for certain cancer genes. </p>
+<h6>
+    <img src= "data:image/png;base64,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"; width="500"; length="200" alt="SOPHiA Genetics";>
+  </h6>
+<br></br>
+<h2> Future</h2>
+<p> In the future there is a possibility of using computing power to quickly find new drugs and cures for all diseases not just cancer. For now, we should focus on curing cancer. 
+ <h6>
+    <img src= "https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_article/public/cgov_contextual_image/100/900/3/files/dividing-breast-cancer-cell-article-only.jpg?itok=7_RRcbFU"; width="500"; length="200" alt="cancer cells 2";>
+  </h6>
+<br></br>  
+<h1> The meaning behind colors used</h1>
+<!DOCTYPE html> 
+<html> 
+  <body>
+    <div class="cancer colors" >
+      <h2> Pink is the color of breast cancer</h2>
+    </div>
+    <div class="cancer colors">
+      <h2> Plum honors caregivers</h2>
+    </div>
+    <div class= "cancer colors">
+      <h2> Lavender is the color of all cancers</h2>
+    </div>
+    </html>
+  </body>
+  
+   <head >
+      <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
+      <title >Form Page: sampleform</title>
+   </head>
+
+<html xmlns='http://www.w3.org/1999/xhtml'>
+   <head >
+      <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
+      <title >Form Page: sampleform</title>
+   </head>
+<body>
+  <h1>Submit your name and email if you want to learn more!</h1>
+ 
+<form id='sampleform' method='post' action='' >
+   <p>
+   Name: <input type='text' name='Name' />
+   </p>
+   <p>
+   Email: <input type='text' name='Email' />
+   </p>
+   <p>
+   <input type='submit' name='Submit' value='Submit' />
+   </p>
+</form>
+ 
+</body>
+</html>
+
+
+  
+
+
+  
