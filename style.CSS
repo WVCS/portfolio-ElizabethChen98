@@ -1,6 +1,40 @@
 body{
   background-color:#E3CCFF
 }
+body {
+  font-size: 28px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ccffff;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+
+li {
+  float: left;
+}
+
+li  {
+  display: block ;
+  color:#000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li :hover {
+  background-color: #111;
+}
+
+.active {
+  background-color: #4CAF50;
+}
 h1{
   color:#FF3399; 
   text-align:center;
